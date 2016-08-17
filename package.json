@@ -1,0 +1,31 @@
+{
+  "name": "armbot",
+  "version": "1.0.0",
+  "description": "perform Azure ARM tasks easily using chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guybartal/armbot.git"
+  },
+  "keywords": [
+    "azure",
+    "ARM",
+    "bot",
+    "bot-framework",
+    "automation",
+    "chat-bot"
+  ],
+  "author": "Guy Bertental",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guybartal/armbot/issues"
+  },
+  "homepage": "https://github.com/guybartal/armbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
